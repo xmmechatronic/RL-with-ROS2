@@ -13,3 +13,5 @@ This repository contains a ROS2 package that implements Q-learning for obstacle 
 ```bash
 colcon build
 source install/setup.bash
+
+ros2 launch turtlebot3_gazebo turtlebot3_world.launch.py
